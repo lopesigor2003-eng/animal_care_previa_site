@@ -1,0 +1,6 @@
+{
+  "name": "Animal Care - Veterinária",
+  "description": "Landing page institucional para a clínica Animal Care - Veterinária em Santa Maria, RS com design Neumorphism moderno.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
